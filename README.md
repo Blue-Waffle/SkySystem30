@@ -10,3 +10,7 @@ Beautiful Sky Textures~ Now with decreased Res and increased Frames!
 𝟚) ℙ𝕝𝕒𝕔𝕖 𝕚𝕟 𝕋𝔼ℝ𝔸/ℂ𝕝𝕚𝕖𝕟𝕥/_𝕞𝕠𝕕𝕤
 
 𝟛) 𝔻𝕠𝕟𝕖~!
+
+(Best used with my S1Engine.ini that you can find [here~!](https://github.com/DaddysBluebear?tab=repositories) )
+
+![alt text](https://i.imgur.com/EOQSjhv.png)
